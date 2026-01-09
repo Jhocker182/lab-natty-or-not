@@ -1,4 +1,4 @@
-# bORA VER ONLINE
+# BORA VER ONLINE
 
 ## 📒 Descrição
 PROJETO DE VENDAS ONLINE
